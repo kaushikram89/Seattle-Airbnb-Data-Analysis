@@ -9,3 +9,4 @@ Udacity course requirement
 2. Analyses the Airbnb dataset and answer three questions for a potential Seattle Airbnb host in the jupyter notebook
 
 # Medium Blog Post
+https://medium.com/@kaushikram89/how-to-airbnb-my-seattle-house-7a2db6433c82
