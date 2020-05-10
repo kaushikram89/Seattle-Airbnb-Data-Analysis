@@ -5,6 +5,7 @@ This repository contains the jupyter notebook file that analyses the Seattle Air
 Udacity course requirement
 
 # Project
-Analyses the Airbnb dataset and answer three questions for a potential Seattle Airbnb host.
+1. Dataset in the dataset folder
+2. Analyses the Airbnb dataset and answer three questions for a potential Seattle Airbnb host in the jupyter notebook
 
 # Medium Blog Post
